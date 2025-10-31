@@ -12,9 +12,6 @@ Final Result: Build Success! 🚀
 
 Here is the console output from the successful Jenkins build, showing that Jenkins successfully cloned the repository, invoked Maven, and compiled the Java code.
 
-(Remember to add your screenshot file to this repository and change the filename "https://www.google.com/search?q=YOUR_SCREENSHOT.png" below to match it!)
-
-Started by user Goutam Sharma
 Running as SYSTEM
 Building in workspace /var/jenkins_home/workspace/Hello-World-Build
 ...
